@@ -1,0 +1,10 @@
+com\ai\agent\verifact\tool\DateTimeTool.class
+com\ai\agent\verifact\config\CorsConfig$1.class
+com\ai\agent\verifact\service\ImageOcrService.class
+com\ai\agent\verifact\service\AiService.class
+com\ai\agent\verifact\tool\VoiceToTextTool.class
+com\ai\agent\verifact\VerifactApplication.class
+com\ai\agent\verifact\tool\UriContentTool.class
+com\ai\agent\verifact\controller\AiController.class
+com\ai\agent\verifact\config\CorsConfig.class
+com\ai\agent\verifact\tool\GoogleSearchTool.class
